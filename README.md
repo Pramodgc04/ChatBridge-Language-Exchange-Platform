@@ -1,6 +1,6 @@
 # 🎥 ChatBridge - Video Calling & Chat Application
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+
 
 A modern, full-stack video calling and chat application built with React and Node.js. ChatBridge provides seamless real-time communication with video calls, messaging, and friend management features.
 
